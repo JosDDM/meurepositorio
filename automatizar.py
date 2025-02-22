@@ -11,7 +11,8 @@ En este caso estamos dando una ruta donde va a cargar plantilla_informe.docx y A
 información base, el informe generado para cada alumno también será almacenado en esa misma ruta. Como mejora
 se podría colocar en el mismo Excel los datos constantes del maestro o leerlos de otro archivo.
 '''
-# Estos son los datos fijos del maestro 
+# Estos son los datos fijos del maestro,------- 
+test="testes"
 nombre="Erick Mena"
 telefono="(123) 456-7890"
 correo="erick@gmail.com"
